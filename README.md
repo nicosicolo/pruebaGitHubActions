@@ -1,7 +1,8 @@
-# ejercicio-alumno
+# Prueba para trabajar con GitHub Actions
 
-## Integrantes
+## Integrante
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+- Nicolas Sicolo (nicosicolo)
+
+Pequeño ejemplo para trabajar con GitHub Actions utilizando el archivo build.yml.
+
