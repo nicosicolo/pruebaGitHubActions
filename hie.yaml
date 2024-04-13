@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "pruebaGitHubActions:lib"
+
+    - path: "./test"
+      component: "pruebaGitHubActions:test:pruebaGitHubActions-test"
